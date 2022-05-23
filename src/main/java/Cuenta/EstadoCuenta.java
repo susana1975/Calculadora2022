@@ -1,0 +1,4 @@
+public enum EstadoCuenta {
+    OPERATIVA, CERRADA, INMOVILIZADA, NUMEROS_ROJOS;
+}
+

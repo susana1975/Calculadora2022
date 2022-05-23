@@ -13,14 +13,6 @@ en sentido inverso (decrementando el índice).
 import java.util.ArrayList;
 import java.util.Arrays;
 
-enum EstadoCuenta {
-    OPERATIVA, CERRADA, INMOVILIZADA, NUMEROS_ROJOS;
-}
-
-enum TipoCuenta {
-    AHORRO, CORRIENTE, NOMINA, VIVIENDA;
-}
-
 public class Cuenta {
     // Atributos
 
